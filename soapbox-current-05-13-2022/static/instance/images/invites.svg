@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>tabler-icon-mailbox</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="tabler-icon-mailbox" transform="translate(1.000000, 1.000000)" stroke="#00227B" stroke-width="2">
+            <polyline id="Path" points="9 8 9 0 13 0 15 2 13 4 9 4"></polyline>
+            <path d="M7,18 L7,11.5 C7,9.5670034 5.4329966,8 3.5,8 C1.5670034,8 0,9.5670034 0,11.5 L0,18 L18,18 L18,12 C18,9.790861 16.209139,8 14,8 L3.5,8" id="Path"></path>
+            <line x1="3" y1="12" x2="4" y2="12" id="Path"></line>
+        </g>
+    </g>
+</svg>
